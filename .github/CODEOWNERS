@@ -1,0 +1,11 @@
+* @jennofrie
+
+*.md @jennofrie
+/LICENSE @jennofrie
+/package.json @jennofrie
+/app/layout.tsx @jennofrie
+/app/game/GameShell.tsx @jennofrie
+/public/assets/ATTRIBUTION.md @jennofrie
+/public/assets/manifest.json @jennofrie
+/scripts/check-branding.mjs @jennofrie
+/.github/workflows/quality.yml @jennofrie

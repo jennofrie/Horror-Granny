@@ -11,3 +11,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - **Allocation-free loop**: no `new` in per-frame engine paths (`Engine.loop`, `Enemy.update`, `Weapons.update`) — reuse the scratch vectors (`vA`, `vB`, `vCamDir`, …). GC pauses read as stutter.
 - **Relative asset URLs**: runtime code loads assets as `./assets/...` (never `/assets/...`) so the `CG_EXPORT=1` static bundle works from a CDN subfolder.
 <!-- END:project-conventions -->
+
+---
+
+Horror Granny™ and its original project identity are trademarks of Profexor. Copyright © 2026 Profexor. The project code is licensed under the [MIT License](LICENSE); trademark rights are not granted by the software license. Required third-party asset attributions remain governed by their stated licenses.

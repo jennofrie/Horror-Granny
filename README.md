@@ -8,13 +8,13 @@ Built with **Next.js 16 · React 19 · Three.js (r184) · TypeScript** — no ga
 
 ![menu](docs/images/menu.jpg)
 
-[![genre](https://img.shields.io/badge/genre-survival_horror-8b0000)](https://github.com/Jennofrie/Horror-Granny)
+[![genre](https://img.shields.io/badge/genre-survival_horror-8b0000)](https://github.com/jennofrie/Horror-Granny)
 [![engine](https://img.shields.io/badge/three.js-r184-b8a440)](https://threejs.org)
 [![next](https://img.shields.io/badge/next.js-16-black)](https://nextjs.org)
 [![react](https://img.shields.io/badge/react-19-149eca)](https://react.dev)
 [![assets](https://img.shields.io/badge/assets-CC0_/_CC--BY-green)](public/assets/ATTRIBUTION.md)
 [![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![repo](https://img.shields.io/badge/github-Jennofrie%2FHorror--Granny-181717?logo=github)](https://github.com/Jennofrie/Horror-Granny)
+[![repo](https://img.shields.io/badge/github-Profexor%20%C2%B7%20Horror--Granny-181717?logo=github)](https://github.com/jennofrie/Horror-Granny)
 [![X](https://img.shields.io/badge/X-%40Profexor-000000?logo=x)](https://x.com/Profexor)
 
 </div>
@@ -38,6 +38,7 @@ Built with **Next.js 16 · React 19 · Three.js (r184) · TypeScript** — no ga
 - [Testing](#testing)
 - [Portal build (CrazyGames etc.)](#portal-build-crazygames-etc)
 - [Project structure](#project-structure)
+- [Project stewardship](#project-stewardship)
 - [Credits](#credits)
 - [License](#license)
 
@@ -468,9 +469,21 @@ compression is a planned optimization).
 
 ---
 
+## Project stewardship
+
+- [Roadmap](ROADMAP.md) — future enhancement themes and delivery gates.
+- [Contributing](CONTRIBUTING.md) — engineering, performance, asset, and review requirements.
+- [Security](SECURITY.md) — private vulnerability reporting.
+- [Trademark policy](TRADEMARKS.md) — Horror Granny™ brand use and its separation from the MIT code license.
+- [Changelog](CHANGELOG.md) — project evolution.
+
+The automated ownership check verifies project authorship, the Profexor MIT copyright, the repeated Markdown trademark notice, and the continued presence of legally required third-party asset attribution.
+
+---
+
 ## Credits
 
-**Game design, code, and direction by [Jennofrie](https://github.com/Jennofrie) — [Profexor](https://x.com/Profexor).**
+**Game design, code, and direction by [Profexor](https://x.com/Profexor).**
 
 - **Models, music, and sound effects** — CC0 / CC-BY artists, credited
   per-file in [`public/assets/ATTRIBUTION.md`](public/assets/ATTRIBUTION.md).
@@ -500,6 +513,10 @@ this repository provide.
 
 <div align="center">
 <i>Find a weapon. Kill what hunts you. Get out.</i><br/><br/>
-<a href="https://github.com/Jennofrie/Horror-Granny">GitHub</a> ·
+<a href="https://github.com/jennofrie/Horror-Granny">GitHub</a> ·
 <a href="https://x.com/Profexor">@Profexor</a>
 </div>
+
+---
+
+Horror Granny™ and its original project identity are trademarks of Profexor. Copyright © 2026 Profexor. The project code is licensed under the [MIT License](LICENSE); trademark rights are not granted by the software license. Required third-party asset attributions remain governed by their stated licenses.

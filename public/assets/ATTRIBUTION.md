@@ -54,3 +54,7 @@ CC-BY assets require credit to the author (listed below). No CC-NC / CC-ND / CC-
 | impact-spark.png | Impact Spark (spark_01, Particle Pack) | Kenney | CC0 | https://kenney.nl/assets/particle-pack |
 | blood-splatter.png, blood-splatter-single.png | Simple blood splatter (sprite sheet) | Ko'asuna | CC0 | https://opengameart.org/content/simple-blood-splatter |
 | blood-splatter-hi.png | Blood Splatter (hi-res decal with alpha) | ExileGL | CC0 | https://opengameart.org/content/blood-splatter |
+
+---
+
+Horror Granny™ and its original project identity are trademarks of Profexor. Copyright © 2026 Profexor. The project code is licensed under the [MIT License](../../LICENSE); trademark rights are not granted by the software license. The third-party asset attributions above remain governed by their stated licenses and must be preserved.

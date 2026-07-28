@@ -29,8 +29,8 @@ export const metadata: Metadata = {
   description:
     "Play Granny's House: Scary Escape free in your browser. First-person FPS horror in a decrepit rural house — find a weapon, put down grandma, grandpa and the devil, and get out through the front door. No download.",
   applicationName: "Granny's House: Scary Escape",
-  authors: [{ name: "Jennofrie", url: "https://github.com/Jennofrie/Horror-Granny" }],
-  creator: "Jennofrie",
+  authors: [{ name: "Profexor", url: "https://github.com/jennofrie/Horror-Granny" }],
+  creator: "Profexor",
   keywords: [
     "granny game",
     "granny horror game",
@@ -100,9 +100,9 @@ const jsonLd = {
   },
   author: {
     "@type": "Person",
-    name: "Jennofrie",
-    url: "https://github.com/Jennofrie/Horror-Granny",
-    sameAs: ["https://x.com/Profexor", "https://github.com/Jennofrie/Horror-Granny"],
+    name: "Profexor",
+    url: "https://github.com/jennofrie/Horror-Granny",
+    sameAs: ["https://x.com/Profexor", "https://github.com/jennofrie/Horror-Granny"],
   },
 };
 

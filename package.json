@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "check:branding": "node scripts/check-branding.mjs",
+    "check": "pnpm check:branding && pnpm lint && pnpm build"
   },
   "dependencies": {
     "@types/three": "^0.184.1",
@@ -29,6 +31,12 @@
     "typescript": "^5"
   },
   "description": "Granny-style first-person survival horror in the browser \u2014 Next.js 16 + Three.js",
-  "author": "Jennofrie (https://github.com/Jennofrie)",
-  "license": "MIT"
+  "author": "Profexor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennofrie/Horror-Granny.git"
+  },
+  "homepage": "https://github.com/jennofrie/Horror-Granny#readme",
+  "packageManager": "pnpm@10.17.1"
 }
